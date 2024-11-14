@@ -3,3 +3,8 @@ https://genstattu.com/tattu-800mah-3-7v-25c-1s1p-lipo-battery-pack-with-jst-plug
 Gonna run 6s 800mAh
 
 For drive need around 900rpm max at 6s (~24V)
+
+40A is good softness
+
+key stock
+https://www.ebay.com/itm/315723002458?_skw=2x2mm+key&itmmeta=01JCKN7JFJ398KMHS6HK1QZAD6&hash=item49828eb25a:g:aaEAAOSwyMdm1zyv&itmprp=enc%3AAQAJAAAA4HoV3kP08IDx%2BKZ9MfhVJKkJPhqK8s46Tu3ZVz8N0IXwmixSb6HZ0lJeAavUb3uet7lN3PCOmlT4eSrosSpnT%2BFeC8LHlp%2F29MCSJGvlWIujp3YJmrNcwxwOSss%2BeFhJKpBf1sCXQ4PRu%2BRFAL%2F2rw2yeMmAtw0rIVj7Fimdct108Umew5jNWPDo5%2FaDqLdKaqRPXEwJfjvKgIgJhHrJjndbiQxUPfmch3zMzd2Jc4qGCzzS6opFgRsV64ZajihXjfhIoruG9s37RG6sJpPeyG7EHyAompqbvBwk9jl6N5wc%7Ctkp%3ABFBM8Kee9eRk
