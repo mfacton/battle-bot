@@ -1,5 +1,7 @@
-https://genstattu.com/tattu-800mah-3-7v-25c-1s1p-lipo-battery-pack-with-jst-plug-6pcs.html
+4s 850mah + 850mah
+total 1700mah
 
-Gonna run 6s 800mAh
+Using 50A omni-wheels
 
-For drive need around 900rpm max at 6s (~24V)
+40A is good softness
+polyurethane rubber
