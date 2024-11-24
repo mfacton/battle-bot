@@ -121,7 +121,7 @@
       },
       "rules": {
         "max_error": 0.005,
-        "min_clearance": 0.127,
+        "min_clearance": 0.12,
         "min_connection": 0.09,
         "min_copper_edge_clearance": 0.3,
         "min_hole_clearance": 0.33,
@@ -184,6 +184,7 @@
       ],
       "track_widths": [
         0.0,
+        0.2,
         0.254,
         0.5,
         1.0
@@ -742,6 +743,34 @@
     [
       "38b0a34b-2047-47f6-90d7-ccdf77e8e212",
       "Root"
+    ],
+    [
+      "cb19eb0b-a3a9-419c-b6d9-e67d0e4f95b4",
+      "SmallMotor1"
+    ],
+    [
+      "32afc7a0-18ac-478c-98c2-4feaa662b50f",
+      "SmallMotor2"
+    ],
+    [
+      "48688cd5-574e-41ae-9494-1d572dc1abc1",
+      "SmallMotor3"
+    ],
+    [
+      "3dae39a6-6e64-4fba-afea-6411b20ea376",
+      "LargeBridgeA"
+    ],
+    [
+      "9f577a1d-26cd-458a-b1d1-aacba6a9740d",
+      "LargeBridgeB"
+    ],
+    [
+      "64f1570d-1769-468a-a736-a63a14670d3f",
+      "LargeBridgeC"
+    ],
+    [
+      "44b7ca63-99f8-4124-8e1b-2878fe070326",
+      "LargeMotor"
     ]
   ],
   "text_variables": {}
