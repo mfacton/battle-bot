@@ -4369,7 +4369,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "9b6b8f05-c55a-401a-82f6-01f814546448")
-		(property "Reference" "J9"
+		(property "Reference" "J10"
 			(at 145.288 70.612 0)
 			(effects
 				(font
@@ -4691,7 +4691,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "bfb074a8-da0a-408e-be6b-af0277e677b4")
-		(property "Reference" "J3"
+		(property "Reference" "J4"
 			(at 145.288 40.132 0)
 			(effects
 				(font
@@ -4851,7 +4851,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "dcf801d9-7dc4-466d-a577-f6c6987e0091")
-		(property "Reference" "J6"
+		(property "Reference" "J7"
 			(at 145.288 55.372 0)
 			(effects
 				(font
