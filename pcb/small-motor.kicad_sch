@@ -3658,7 +3658,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "30a12332-8f0a-42b3-9502-44bf197b75e5")
-		(property "Reference" "#PWR0144"
+		(property "Reference" "#PWR0145"
 			(at 49.53 104.14 0)
 			(effects
 				(font
@@ -3822,7 +3822,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 53.34 54.9148 0)
 			(effects
 				(font
@@ -4460,6 +4460,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C11702"
+			(at 20.32 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5d7098a9-33c2-4872-9a7e-ff9e84dbf399")
 		)
@@ -4578,7 +4587,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "9b6b8f05-c55a-401a-82f6-01f814546448")
 		(property "Reference" "J10"
 			(at 145.288 70.612 0)
@@ -4900,7 +4909,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "bfb074a8-da0a-408e-be6b-af0277e677b4")
 		(property "Reference" "J4"
 			(at 145.288 40.132 0)
@@ -5060,7 +5069,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "dcf801d9-7dc4-466d-a577-f6c6987e0091")
 		(property "Reference" "J7"
 			(at 145.288 55.372 0)
